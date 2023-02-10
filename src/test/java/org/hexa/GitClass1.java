@@ -13,4 +13,20 @@ public class GitClass1 {
 		private void method4() {
 		System.out.println("4");
 		}
+		private void method5() {
+			System.out.println("3");
+			}
+		private void method6() {
+			System.out.println("3");
+			}
+			
+		private void method7() {
+			System.out.println("3");
+			}
+			
+		private void method8() {
+			System.out.println("3");
+			}
+			
+			
 }
